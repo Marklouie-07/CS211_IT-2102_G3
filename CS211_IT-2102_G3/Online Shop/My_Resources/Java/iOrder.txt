@@ -1,0 +1,12 @@
+		Online Shop Ordering Systems
+
+
+Number of First Item	1.0*₱108.00=₱108.00
+Number of Second Item	1.0*₱98.00=₱98.00
+Number of Other Type of Item =	1.0*₱10.00=₱10.00
+Total Cost of Ordered Item:	₱219.24
+
+Order Ref No	 3938
+Date		23-12-2020
+Time		18:39:38
+	Thanks for Shopping Online
